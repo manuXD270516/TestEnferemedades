@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "214329745151",
+    "firebase_url": "https://app-testmedico.firebaseio.com",
+    "project_id": "app-testmedico",
+    "storage_bucket": "app-testmedico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214329745151:android:4bee21f56eaa5cb1",
+        "android_client_info": {
+          "package_name": "com.example.testenfermedades.testenferemedades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214329745151-754m7837g5794lv6c5p88hnnvqkdgj90.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "214329745151-754m7837g5794lv6c5p88hnnvqkdgj90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeeCIGKi_vhKDxnrlqX9jsgqv68rAi56U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
